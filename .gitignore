@@ -1,3 +1,6 @@
 # GIMP files
 
 *.xcf
+
+#temp files for scrolling colors
+*scroll*.bmp
